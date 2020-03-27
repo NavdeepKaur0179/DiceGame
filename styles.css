@@ -1,0 +1,35 @@
+body{
+    font-family: 'Shrikhand', cursive;
+    background-color: #393E46;
+}
+#container
+{
+    text-align: center;
+    width:70%;
+    margin: auto;
+
+}
+.dice
+{
+    display:inline-block;
+    text-align: center;
+
+}
+p
+{
+    font-size: 2rem;
+    color: #4ECCA3;
+}
+
+h1
+{
+    margin: 30;
+    text-shadow: 5px 0 #232931;
+    font-size: 6rem;
+    color: #4ECCA3;
+}
+
+img
+{
+    width: 80%;
+}
